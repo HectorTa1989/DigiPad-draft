@@ -63,7 +63,7 @@ Nhân viên tạo yêu cầu
 → Tạo hoặc cập nhật case
 ```
 
-2.2 Ranh giới giữa “đề xuất” và “quyết định”
+## 2.2 Ranh giới giữa “đề xuất” và “quyết định”
 Đây là câu hỏi nghiệp vụ quan trọng nhất.
 Nên hỏi thẳng:
 
@@ -176,7 +176,7 @@ Có cần đánh dấu rõ dữ liệu giả lập trên dashboard không?
 Có cần công cụ để sinh nhiều bộ hồ sơ test không?
 Giám khảo đánh giá kiến trúc hay độ chính xác trên dữ liệu SHB?
 
-3.3 Thiết kế RAG
+## 3.3 Thiết kế RAG
 Nên hỏi:
 
 Mỗi agent có cần knowledge base riêng không?
